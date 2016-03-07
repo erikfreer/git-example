@@ -1,6 +1,7 @@
 # README!
 
 Networks & Transactions lab from feb 25, 2016
+Mark Down is something limited, its handy for documentation. 
 
 ## TO Create a new repository
 
